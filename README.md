@@ -10,8 +10,10 @@ From the three city types PyBer Ride Share collected data from the Urban categor
 https://github.com/JimmyJ-D/PyBer_Analysis/blob/main/Screen%20Shot%202021-01-14%20at%208.23.36%20PM.png
 
 
-#Summary: Based on the results, provide three business recommendation to the CEO for addressing any disparities among the city types.
+#Summary:
 
 https://github.com/JimmyJ-D/PyBer_Analysis/blob/main/Screen%20Shot%202021-01-14%20at%209.18.23%20PM.png
+
+"resources/PyBer_fare_summary.png"
 
 Using sample data from January to May, it correlates with our average and total amount data. The rural cities are service by the fewest driver but has the largest average fare per ride and average fare per driver. We would recommend increasing the total drivers in the rural city to capitalize on the largest average fare per ride and average fare per driver. We recommend on reducing the number of drivers in the urban city and possibility increasing prices. 
